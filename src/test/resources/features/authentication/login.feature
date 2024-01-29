@@ -8,6 +8,6 @@ Feature: Back Office - Sign In
     Then Click on Ok button
 
     Examples: Login Credentials
-      | username             | password |
-      | kumuda@tonicpos.com  | @Test123 |
+      | username        | password     |
+      | root@ordyx.com  | BestDevTeam! |
 

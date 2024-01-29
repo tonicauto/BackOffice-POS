@@ -8,7 +8,6 @@ import net.thucydides.core.annotations.Steps;
 import static org.assertj.core.api.Java6Assertions.assertThat;
 
 public class HomePageTest {
-
     @Steps
     HomePage homePage;
 

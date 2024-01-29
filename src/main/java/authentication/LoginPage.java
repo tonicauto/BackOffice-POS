@@ -7,7 +7,6 @@ import net.thucydides.core.util.EnvironmentVariables;
 import org.openqa.selenium.StaleElementReferenceException;
 
 public class LoginPage extends Base {
-
     LoginPageElements loginPageElements;
 
     @Step("Navigate to Login Page")
